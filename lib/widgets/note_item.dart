@@ -27,7 +27,7 @@ class NoteItem extends StatelessWidget {
                 'Build Your Career With Tharwat Samy ',
                 style: TextStyle(
                     color: Colors.black.withOpacity(.5), 
-                    fontSize: 20),
+                    fontSize: 18),
               ),
             ),
             trailing: Padding(
